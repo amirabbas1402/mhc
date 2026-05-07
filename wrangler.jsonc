@@ -1,5 +1,5 @@
 {
-  "name": "mhr",
+  "name": "mhc",
   "compatibility_date": "2025-10-01",
   "main": "worker.js"
 }
